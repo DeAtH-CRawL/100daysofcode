@@ -14,10 +14,10 @@ calculates change, and updates the resource levels after a successful purchase.
 """
 
 # TODO:
-# 1. Handle invalid drink choices gracefully (e.g., when a user enters a drink not in the MENU).
-# 2. Add input validation for coins to handle non-numeric input from the user.
-# 3. Refactor the report logic into its own dedicated function for better organization.
-# 4. (Advanced) Refactor the code to use a CoffeeMachine class to encapsulate state (resources, profit)
+# TODO1. Handle invalid drink choices gracefully (e.g., when a user enters a drink not in the MENU).
+# TODO2. Add input validation for coins to handle non-numeric input from the user.
+# TODO3. Refactor the report logic into its own dedicated function for better organization.
+# TODO4. (Advanced) Refactor the code to use a CoffeeMachine class to encapsulate state (resources, profit)
 #    and behavior, reducing the reliance on global variables.
 
 
