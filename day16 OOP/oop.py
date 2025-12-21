@@ -6,6 +6,14 @@ table.add_column("HP", [20, 34, 39])
 print(table)
 
 
+'''
+difference between class and object
 
+class is a blueprint
+object is an instance of a class
+attributes is a property of an object
+methods is a function of an object
+
+'''
 
 
