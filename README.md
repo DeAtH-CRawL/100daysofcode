@@ -7,7 +7,7 @@ Welcome to my **100 Days of Code** journey! 🚀
 
 I am following the **"100 Days of Code - The Complete Python Pro Bootcamp"** course by **Dr. Angela Yu** on Udemy. This course is designed to take you from **zero programming experience** to becoming a **professional Python developer** by building **100 real-world projects in 100 days**.
 
-Here, I am documenting and pushing **1 Python project per day**, and I am currently on **Day 17**.
+Here, I am documenting and pushing **1 Python project per day**, and I am currently on **Day 18**.
 
 ---
 
