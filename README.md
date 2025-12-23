@@ -37,7 +37,7 @@ This course is designed for **beginners** as well as **intermediate programmers*
 
 ## My 100 Days of Code Journey
 - **Start Date:** 12th December 2025 
-- **Current Day:** 17  
+- **Current Day:** 18  
 - **Goal:** Complete 100 Python projects in 100 days  
 - **Learning Platform:** Udemy - "100 Days of Code: Python Bootcamp" by Dr. Angela Yu  
 
