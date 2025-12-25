@@ -60,3 +60,4 @@ while is_race_on:
 # --- Exit ---
 # Keep the screen open until it's clicked.
 screen.exitonclick()
+
