@@ -20,7 +20,7 @@ class Food(Turtle):
         self.speed("fastest")  # So the food appears instantly
         self.refresh()
 
-    def refresh(self):
+    def refresh(self): 
         """Moves the food to a new random position on the screen."""
         random_x = random.randint(-280, 280)
         random_y = random.randint(-280, 280)
